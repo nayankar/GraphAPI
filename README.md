@@ -11,9 +11,7 @@ Here are some basic components and features:
 
 ## How To Run :
 - Save the *.java files into your package.
-- Run on many available IDE's(eclipse or IntelliJ).
-- Analysis on nodes, edges: in-degree, out-degree, etc.
-- Generic algorithms: search, shortest path, span, centrality, connectedness, clustering.
+- Run on many available IDE's(eclipse or IntelliJ) or the terminal.
 
 ## How to create a graph:
 ### First Create nodes:
