@@ -26,5 +26,5 @@ Here are some basic components and features:
     - This creates an edge from node1 to node2.
 
 ## Follow the steps in the screenshot below to create a graph and calculate Pagerank.
-I[ Steps as seen in the screenshot](steps.jpg)
+![ Steps as seen in the screenshot](steps.png)
 
