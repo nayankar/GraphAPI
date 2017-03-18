@@ -10,8 +10,8 @@ Here are some basic components and features:
 - Generic algorithms: search, shortest path, span, centrality, connectedness, clustering.
 
 ## How To Run :
-- Save the *.java files into your package.
-- Run on many available IDE's(eclipse or IntelliJ) or the terminal.
+- Save the *.java class files into a single package.
+- Run PageRank.java on many available IDE's(eclipse or IntelliJ) or the terminal.
 
 ## How to create a graph:
 ### First Create nodes:
